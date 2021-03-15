@@ -20,6 +20,6 @@ O intuito desse projeto é colocar em pratica os conhecimentos de front end vist
 
 Segue abaixo uma imagem da tela
 
-![Imagem inicial](https://github.com/Leandrors91/pokemon-bank/blob/master/banco-pokemon/imgs/inicio.png 'Inicio')
+![Tela de login](https://github.com/Leandrors91/Recriando-Tela-Instagram/blob/master/instagram-dio-master/img/tela%20instagram.png 'Tela de login')
 
 
