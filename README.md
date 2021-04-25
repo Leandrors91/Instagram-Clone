@@ -1,4 +1,4 @@
-# Recriando-Tela-Instagram
+# Instagram-Clone
 
 Projeto feito durante curso da Digital Innovation One ministrado por Gabriela Pinheiro
 
